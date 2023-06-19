@@ -2,6 +2,7 @@
 
 ## :white_check_mark: Tecnologías
 - Java 17
+- Java Swing
 - IDE Apache Netbeans
 - Mysql
 

@@ -271,7 +271,7 @@ public class LoginForm extends javax.swing.JFrame {
         mostrarNombreUsuario(usuario);
         bienvenidoForm.setVisible(true);
         loginLoader.setVisible(false);
-        this.dispose();
+       
     }
 
     private void mostrarNombreUsuario(Usuario role) {
